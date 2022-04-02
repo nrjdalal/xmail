@@ -6,8 +6,8 @@
     />
 
     <mj-attributes>
-      <mj-all font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" />
-      <mj-text color="#ea580c" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" />
+      <mj-all font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+      <mj-text color="#ea580c" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
     </mj-attributes>
   </mj-head>
   <mj-body>
@@ -87,6 +87,41 @@
             </td>
           </tr>
         </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-1.webp"
+          alt="Building Photo"
+          width="320px"
+        />
+
+        <mj-text align="center">
+          <p style="color: white; font-weight: 500">
+            • NATIONWIDE CRE LENDER •
+            <br />
+            LOAN PROGRAMS
+          </p>
+
+          <p>
+            Bridge Loans
+            <br />
+            Construction Loans
+            <br />
+            85% LTC Stretch Loans
+            <br />
+            Acquisition Loans
+            <br />
+            <br />
+            <span style="color: white; font-size: 12px">
+              Preferred Loan Size: $1 Mil – $150 Mil +
+              <br />
+              Rates start at around 3.25% for real estate financing programs
+            </span>
+          </p>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
