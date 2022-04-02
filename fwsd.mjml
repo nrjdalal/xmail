@@ -10,7 +10,7 @@
 
     <mj-attributes>
       <mj-all font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
-      <mj-text color="#ea580c" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+      <mj-text color="#fca5a5" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
     </mj-attributes>
   </mj-head>
   <mj-body>
@@ -34,16 +34,18 @@
     <!-- hero -->
     <mj-hero
       background-position="bottom center"
-      background-url="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/building.jpg"
+      background-url="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-runway.png"
       padding="100px 0px"
     >
       <mj-text align="center" font-size="18px" font-weight="500">
-        <p style="background-color: #00000033; color: white; padding: 10px">FWSD Fashion Week San Diego®</p>
+        <p style="background-color: #00000099; color: white; padding: 10px; font-weight: 700">
+          FWSD Fashion Week San Diego®
+        </p>
 
-        <p style="background-color: #00000033; color: white; padding: 10px">
+        <p style="background-color: #00000099; color: white; padding: 10px">
           REACH OVER
           <br />
-          <span>200k+ LOCAL CONSUMERS</span>
+          <span style="color: #fca5a5">200k+ LOCAL CONSUMERS</span>
           <br />
           WITH PURCHASING POWER
         </p>
@@ -57,13 +59,15 @@
             <td
               style="
                 align: center;
-                padding: 10px;
+                padding: 20px;
 
-                border-bottom: 2.5px solid #ea580c;
-                border-left: 2.5px solid #ea580c;
+                border-bottom: 2.5px solid #fca5a5;
+                border-left: 2.5px solid #fca5a5;
               "
             >
-              $20 Total Debt & Equity Transactions
+              WE’RE BACK IN-PERSON & LIVE
+              <br />
+              Fashion/lifestyle events throughout SD and NY
             </td>
           </tr>
         </mj-table>
@@ -73,13 +77,14 @@
             <td
               style="
                 align: center;
-                padding: 10px;
+                padding: 20px;
 
-                border-bottom: 2.5px solid #ea580c;
-                border-right: 2.5px solid #ea580c;
+                border-bottom: 2.5px solid #fca5a5;
+                border-right: 2.5px solid #fca5a5;
               "
             >
-              $8 Gross Assets Under Management
+              Be apart of All our Productions with your sponsorship Partner with your Logo, Product or Service Events
+              2022
             </td>
           </tr>
         </mj-table>
@@ -88,14 +93,52 @@
           <tr align="center">
             <td
               style="
-                align: center;
-                padding: 10px;
+                text-align: left;
+                padding: 20px 0;
 
-                border-bottom: 2.5px solid #ea580c;
-                border-left: 2.5px solid #ea580c;
+                border-bottom: 2.5px solid #fca5a5;
+                border-left: 2.5px solid #fca5a5;
               "
             >
-              $10 Debt & Equity Positions
+              <ul>
+                <li>
+                  APRIL 23
+                  <br />
+                  Spring Showcase
+                </li>
+                <br />
+                <li>
+                  JULY 13
+                  <br />
+                  San Diego Fashion Legal Workshop with Knobbe Martens
+                </li>
+                <br />
+                <li>
+                  JULY 23
+                  <br />
+                  San Diego STEAM Youth Workshop
+                </li>
+                <br />
+                <li>
+                  OCTOBER 08
+                  <br />
+                  San Diego Official Runway Shows
+                </li>
+                <br />
+                <li>
+                  October 09
+                  <br />
+                  San Diego Trunk Show
+                </li>
+                <br />
+                <li>
+                  JULY 2023
+                  <br />
+                  San Diego Art & Beauty Behind Fashion
+                </li>
+                <br />
+                <li>New York Events with your BRAND?</li>
+              </ul>
             </td>
           </tr>
         </mj-table>
