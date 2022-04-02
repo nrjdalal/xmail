@@ -149,33 +149,23 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-1.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-partner.jpg"
           alt="Building Photo"
           width="320px"
+          padding-top="0"
         />
 
         <mj-text align="center">
-          <p style="color: white; font-weight: 500">
-            • NATIONWIDE CRE LENDER •
-            <br />
-            LOAN PROGRAMS
-          </p>
+          <p style="color: white; font-weight: 500">• Get In Front of Your Target Audience •</p>
 
           <p>
-            Bridge Loans
+            Official Fashion Week event at your location
             <br />
-            Construction Loans
+            Full year of Digital/Direct marketing
             <br />
-            85% LTC Stretch Loans
+            Custom crafted partnership w/FWSD Official Fashion Week Affiliation
             <br />
-            Acquisition Loans
-            <br />
-            <br />
-            <span style="color: white; font-size: 12px">
-              Preferred Loan Size: $1 Mil – $150 Mil +
-              <br />
-              Rates start at around 3.25% for real estate financing programs
-            </span>
+            VIP SWAG Bag Marketing
           </p>
         </mj-text>
       </mj-column>
@@ -185,29 +175,16 @@
       <mj-column>
         <mj-social padding-bottom="0">
           <mj-social-element
-            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/phone-128.png"
-            href="tel:2127247400"
-          >
-            &nbsp;212.724.7400
-          </mj-social-element>
-        </mj-social>
-
-        <mj-social padding="0">
-          <mj-social-element
             src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/message-128.png"
-            href="mailto:info@abcocap.com"
+            href="mailto:info@fashionweeksd.com"
           >
-            &nbsp;info@abcocap.com
+            &nbsp;info@fashionweeksd.com
           </mj-social-element>
         </mj-social>
 
         <mj-text align="center">
-          <p style="font-weight: 500">ABCO Capital Partners</p>
-          <p style="color: black; font-size: 10px">
-            NY Offices: 33 Irving Place New York, New York 10003
-            <br />
-            Miami Office: 200 S Biscayne Blvd Miami, FL 33131
-          </p>
+          <p style="font-weight: 500">Fashion Week San Diego</p>
+          <p style="color: black; font-size: 10px">San Diego, CA</p>
         </mj-text>
       </mj-column>
     </mj-section>
