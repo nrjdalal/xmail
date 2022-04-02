@@ -10,25 +10,34 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-hero background-url=""> </mj-hero>
-
+    <!-- header -->
     <mj-section background-color="black">
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
           alt="ABCOCP Logo"
-          width="240px"
+          width="200px"
         />
+        <mj-text align="center" color="white">
+          <p>HOME | ABOUT US | DEBT</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text align="center" font-size="18px" font-weight="500">
-          <span style="color: white">CUSTOMIZED</span>
-          FINANCING SOLUTIONS
-        </mj-text>
-      </mj-column>
+    <!-- hero -->
+    <mj-hero
+      background-position="bottom center"
+      background-url="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/building.jpg"
+      padding="100px 0px"
+    >
+      <mj-text align="center" font-size="18px" font-weight="500">
+        <p>CUSTOMIZED <span style="color: white">FINANCING SOLUTIONS</span></p>
+      </mj-text>
+      <mj-button href="https://abcocap.com/" background-color="#ea580c" font-weight="500"> CONTACT US </mj-button>
+    </mj-hero>
+
+    <mj-section>
+      <mj-column> </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
