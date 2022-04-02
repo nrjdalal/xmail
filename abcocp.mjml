@@ -1,0 +1,18 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+    <mj-attributes>
+      <mj-text font-weight="700" font-family="DM Sans" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="" alt="" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
