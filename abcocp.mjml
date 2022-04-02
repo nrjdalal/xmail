@@ -47,8 +47,8 @@
                 align: center;
                 padding: 10px;
 
-                border-bottom: 5px solid #ea580c;
-                border-left: 5px solid #ea580c;
+                border-bottom: 2.5px solid #ea580c;
+                border-left: 2.5px solid #ea580c;
               "
             >
               $20 Total Debt & Equity Transactions
@@ -63,8 +63,8 @@
                 align: center;
                 padding: 10px;
 
-                border-bottom: 5px solid #ea580c;
-                border-right: 5px solid #ea580c;
+                border-bottom: 2.5px solid #ea580c;
+                border-right: 2.5px solid #ea580c;
               "
             >
               $8 Gross Assets Under Management
@@ -79,8 +79,8 @@
                 align: center;
                 padding: 10px;
 
-                border-bottom: 5px solid #ea580c;
-                border-left: 5px solid #ea580c;
+                border-bottom: 2.5px solid #ea580c;
+                border-left: 2.5px solid #ea580c;
               "
             >
               $10 Debt & Equity Positions
