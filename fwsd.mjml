@@ -38,9 +38,12 @@
       padding="100px 0px"
     >
       <mj-text align="center" font-size="18px" font-weight="500">
-        <p style="background-color: #00000099; color: white; padding: 10px; font-weight: 700">
+        <a
+          href="https://calendly.com/fwsd/meet?month=2022-03"
+          style="background-color: #00000099; color: white; padding: 10px; font-weight: 700; text-decoration: none"
+        >
           FWSD Fashion Week San Diego®
-        </p>
+        </a>
 
         <p style="background-color: #00000099; color: white; padding: 10px">
           REACH OVER
