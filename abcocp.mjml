@@ -6,17 +6,28 @@
     />
 
     <mj-attributes>
-      <mj-text font-weight="700" font-family="DM Sans" />
+      <mj-text color="#ea580c" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" />
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section background-color="white">
+    <mj-hero background-url=""> </mj-hero>
+
+    <mj-section background-color="black">
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
           alt="ABCOCP Logo"
           width="240px"
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text align="center" font-size="18px" font-weight="500">
+          <span style="color: white">CUSTOMIZED</span>
+          FINANCING SOLUTIONS
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
