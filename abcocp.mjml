@@ -17,10 +17,11 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
           alt="ABCOCP Logo"
+          padding-top="24px"
           width="200px"
         />
 
-        <mj-text align="center" color="black">
+        <mj-text align="center" color="black" padding-bottom="0">
           <p>HOME | ABOUT US | DEBT</p>
         </mj-text>
       </mj-column>
