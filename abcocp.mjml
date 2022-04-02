@@ -128,6 +128,24 @@
 
     <mj-section background-color="#e2e8f0">
       <mj-column>
+        <mj-social padding-bottom="0">
+          <mj-social-element
+            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/phone-128.png"
+            href="tel:2127247400"
+          >
+            &nbsp;212.724.7400
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social padding="0">
+          <mj-social-element
+            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/message-128.png"
+            href="mailto:info@abcocap.com"
+          >
+            &nbsp;info@abcocap.com
+          </mj-social-element>
+        </mj-social>
+
         <mj-text align="center">
           <p style="font-weight: 500">ABCO Capital Partners</p>
           <p style="color: black; font-size: 10px">
