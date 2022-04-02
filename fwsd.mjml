@@ -19,14 +19,14 @@
       <mj-column>
         <mj-image
           href="https://abcocap.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-logo.png"
           alt="ABCOCP Logo"
           padding-top="24px"
-          width="200px"
+          width="100px"
         />
 
         <mj-text align="center" color="black" padding-bottom="0">
-          <p>HOME | ABOUT US | DEBT</p>
+          <p>HOME | ABOUT | EVENTS</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -38,7 +38,7 @@
       padding="100px 0px"
     >
       <mj-text align="center" font-size="18px" font-weight="500">
-        <p>CUSTOMIZED <span style="color: white">FINANCING SOLUTIONS</span></p>
+        <p style="background-color: #00000033; color: white; padding: 10px">FWSD Fashion Week San Diego®</p>
       </mj-text>
       <mj-button href="https://abcocap.com/" background-color="#ea580c" font-weight="500"> CONTACT US </mj-button>
     </mj-hero>

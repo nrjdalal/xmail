@@ -1,0 +1,139 @@
+<mjml>
+  <mj-head>
+    <mj-title>ABCO Capital Partners</mj-title>
+    <mj-preview> Commercial Loan Financing Nationwide </mj-preview>
+
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+
+    <mj-attributes>
+      <mj-all font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+      <mj-text color="#ea580c" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- header -->
+    <mj-section background-color="#FDBA74" padding="40px 0">
+      <mj-column>
+        <mj-table align="center" padding="0px 30px 0px 0px">
+          <tr align="center">
+            <td style="align: center; padding: 10px; background-color: #e5e7eb">
+              <img
+                href="https://abcocap.com/"
+                src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
+                alt="ABCOCP Logo"
+                width="200px"
+              />
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!-- image -->
+    <mj-section background-color="#FDBA74" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-1.jpg"
+          alt="Building Photo"
+          padding="0px 60px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="#FDBA74">
+      <mj-column>
+        <mj-table align="center" padding="0px 0px 0px 60px">
+          <tr align="center">
+            <td style="align: center; background-color: #e5e7eb">
+              <p style="color: #ea580c; font-size: 20px; font-weight: 700">STABLIZED AND VALUE ADD</p>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table align="center" padding="40px 30px 0px 30px">
+          <tr align="center">
+            <td style="align: center; background-color: #ea580c; color: #e5e7eb; font-weight: 500; padding: 10px">
+              <p style="font-size: 18px">ASSET TYPE</p>
+              <ul style="text-align: left">
+                <li>Lorem ipsum dorem</li>
+                <li>Lorem ipsum dorem</li>
+              </ul>
+
+              <p style="font-size: 18px">ASSET TYPE</p>
+              <ul style="text-align: left">
+                <li>Lorem ipsum dorem</li>
+                <li>Lorem ipsum dorem</li>
+              </ul>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="#FDBA74" padding-bottom="40px">
+      <mj-column>
+        <mj-table align="center" padding="0px 60px 0px 0px">
+          <tr align="center">
+            <td style="align: center; background-color: #e5e7eb">
+              <p style="color: #ea580c; font-size: 20px; font-weight: 700">STABLIZED AND VALUE ADD</p>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table align="center" padding="40px 30px 0px 30px">
+          <tr align="center">
+            <td style="align: center; background-color: #ea580c; color: #e5e7eb; font-weight: 500; padding: 10px">
+              <p style="font-size: 18px">ASSET TYPE</p>
+              <ul style="text-align: left">
+                <li>Lorem ipsum dorem</li>
+                <li>Lorem ipsum dorem</li>
+              </ul>
+
+              <p style="font-size: 18px">ASSET TYPE</p>
+              <ul style="text-align: left">
+                <li>Lorem ipsum dorem</li>
+                <li>Lorem ipsum dorem</li>
+              </ul>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#e5e7eb">
+      <mj-column>
+        <mj-social padding-bottom="0">
+          <mj-social-element
+            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/phone-128.png"
+            href="tel:2127247400"
+          >
+            &nbsp;212.724.7400
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social padding="0">
+          <mj-social-element
+            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/message-128.png"
+            href="mailto:info@abcocap.com"
+          >
+            &nbsp;info@abcocap.com
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text align="center">
+          <p style="font-weight: 500">ABCO Capital Partners</p>
+          <p style="color: black; font-size: 10px">
+            NY Offices: 33 Irving Place New York, New York 10003
+            <br />
+            Miami Office: 200 S Biscayne Blvd Miami, FL 33131
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
