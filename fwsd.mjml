@@ -1,0 +1,164 @@
+<mjml>
+  <mj-head>
+    <mj-title>ABCO Capital Partners</mj-title>
+    <mj-preview> Commercial Loan Financing Nationwide </mj-preview>
+
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+
+    <mj-attributes>
+      <mj-all font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+      <mj-text color="#ea580c" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- header -->
+    <mj-section background-color="#e5e7eb">
+      <mj-column>
+        <mj-image
+          href="https://abcocap.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
+          alt="ABCOCP Logo"
+          padding-top="24px"
+          width="200px"
+        />
+
+        <mj-text align="center" color="black" padding-bottom="0">
+          <p>HOME | ABOUT US | DEBT</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- hero -->
+    <mj-hero
+      background-position="bottom center"
+      background-url="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/building.jpg"
+      padding="100px 0px"
+    >
+      <mj-text align="center" font-size="18px" font-weight="500">
+        <p>CUSTOMIZED <span style="color: white">FINANCING SOLUTIONS</span></p>
+      </mj-text>
+      <mj-button href="https://abcocap.com/" background-color="#ea580c" font-weight="500"> CONTACT US </mj-button>
+    </mj-hero>
+
+    <mj-section background-color="black">
+      <mj-column padding="15px 0">
+        <mj-table color="white" align="center" padding="0px 30px">
+          <tr align="center">
+            <td
+              style="
+                align: center;
+                padding: 10px;
+
+                border-bottom: 2.5px solid #ea580c;
+                border-left: 2.5px solid #ea580c;
+              "
+            >
+              $20 Total Debt & Equity Transactions
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding="0px 30px">
+          <tr align="center">
+            <td
+              style="
+                align: center;
+                padding: 10px;
+
+                border-bottom: 2.5px solid #ea580c;
+                border-right: 2.5px solid #ea580c;
+              "
+            >
+              $8 Gross Assets Under Management
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding="0px 30px">
+          <tr align="center">
+            <td
+              style="
+                align: center;
+                padding: 10px;
+
+                border-bottom: 2.5px solid #ea580c;
+                border-left: 2.5px solid #ea580c;
+              "
+            >
+              $10 Debt & Equity Positions
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-1.jpg"
+          alt="Building Photo"
+          width="320px"
+        />
+
+        <mj-text align="center">
+          <p style="color: white; font-weight: 500">
+            • NATIONWIDE CRE LENDER •
+            <br />
+            LOAN PROGRAMS
+          </p>
+
+          <p>
+            Bridge Loans
+            <br />
+            Construction Loans
+            <br />
+            85% LTC Stretch Loans
+            <br />
+            Acquisition Loans
+            <br />
+            <br />
+            <span style="color: white; font-size: 12px">
+              Preferred Loan Size: $1 Mil – $150 Mil +
+              <br />
+              Rates start at around 3.25% for real estate financing programs
+            </span>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#e5e7eb">
+      <mj-column>
+        <mj-social padding-bottom="0">
+          <mj-social-element
+            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/phone-128.png"
+            href="tel:2127247400"
+          >
+            &nbsp;212.724.7400
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social padding="0">
+          <mj-social-element
+            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/message-128.png"
+            href="mailto:info@abcocap.com"
+          >
+            &nbsp;info@abcocap.com
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text align="center">
+          <p style="font-weight: 500">ABCO Capital Partners</p>
+          <p style="color: black; font-size: 10px">
+            NY Offices: 33 Irving Place New York, New York 10003
+            <br />
+            Miami Office: 200 S Biscayne Blvd Miami, FL 33131
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
