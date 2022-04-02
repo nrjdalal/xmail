@@ -149,6 +149,7 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-image
+          href="https://calendly.com/fwsd/meet?month=2022-03"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-partner.jpg"
           alt="Building Photo"
           width="320px"
