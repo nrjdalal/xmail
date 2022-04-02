@@ -18,7 +18,7 @@
     <mj-section background-color="#e5e7eb">
       <mj-column>
         <mj-image
-          href="https://abcocap.com/"
+          href="https://fashionweeksd.com"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-logo.png"
           alt="ABCOCP Logo"
           padding-top="24px"
@@ -83,8 +83,9 @@
                 border-right: 2.5px solid #fca5a5;
               "
             >
-              Be apart of All our Productions with your sponsorship Partner with your Logo, Product or Service Events
-              2022
+              Be apart of All our Productions with your sponsorship
+              <br />
+              Partner with your Logo, Product or Service Events 2022
             </td>
           </tr>
         </mj-table>
