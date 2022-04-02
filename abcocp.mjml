@@ -12,7 +12,7 @@
   </mj-head>
   <mj-body>
     <!-- header -->
-    <mj-section background-color="#e2e8f0">
+    <mj-section background-color="#e5e7eb">
       <mj-column>
         <mj-image
           href="https://abcocap.com/"
@@ -127,7 +127,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#e2e8f0">
+    <mj-section background-color="#e5e7eb">
       <mj-column>
         <mj-social padding-bottom="0">
           <mj-social-element
