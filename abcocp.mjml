@@ -12,7 +12,7 @@
   </mj-head>
   <mj-body>
     <!-- header -->
-    <mj-section background-color="black">
+    <mj-section background-color="#cbd5e1">
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
@@ -20,7 +20,7 @@
           width="200px"
         />
 
-        <mj-text align="center" color="white">
+        <mj-text align="center" color="black">
           <p>HOME | ABOUT US | DEBT</p>
         </mj-text>
       </mj-column>
@@ -120,6 +120,19 @@
               <br />
               Rates start at around 3.25% for real estate financing programs
             </span>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#cbd5e1">
+      <mj-column>
+        <mj-text align="center">
+          <p style="font-weight: 500">ABCO Capital Partners</p>
+          <p style="color: black; font-size: 10px">
+            NY Offices: 33 Irving Place New York, New York 10003
+            <br />
+            Miami Office: 200 S Biscayne Blvd Miami, FL 33131
           </p>
         </mj-text>
       </mj-column>
