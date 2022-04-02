@@ -57,13 +57,13 @@
         <mj-table align="center" padding="40px 30px 0px 30px">
           <tr align="center">
             <td style="align: center; background-color: #ea580c; color: #e5e7eb; font-weight: 500; padding: 10px">
-              <p style="font-size: 18px">ASSET TYPE</p>
+              <p style="font-size: 18px; color: black">ASSET TYPE</p>
               <ul style="text-align: left">
                 <li>Lorem ipsum dorem</li>
                 <li>Lorem ipsum dorem</li>
               </ul>
 
-              <p style="font-size: 18px">ASSET TYPE</p>
+              <p style="font-size: 18px; color: black">ASSET TYPE</p>
               <ul style="text-align: left">
                 <li>Lorem ipsum dorem</li>
                 <li>Lorem ipsum dorem</li>
@@ -88,13 +88,13 @@
         <mj-table align="center" padding="40px 30px 0px 30px">
           <tr align="center">
             <td style="align: center; background-color: #ea580c; color: #e5e7eb; font-weight: 500; padding: 10px">
-              <p style="font-size: 18px">ASSET TYPE</p>
+              <p style="font-size: 18px; color: black">ASSET TYPE</p>
               <ul style="text-align: left">
                 <li>Lorem ipsum dorem</li>
                 <li>Lorem ipsum dorem</li>
               </ul>
 
-              <p style="font-size: 18px">ASSET TYPE</p>
+              <p style="font-size: 18px; color: black">ASSET TYPE</p>
               <ul style="text-align: left">
                 <li>Lorem ipsum dorem</li>
                 <li>Lorem ipsum dorem</li>
