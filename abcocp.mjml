@@ -15,6 +15,7 @@
     <mj-section background-color="#e2e8f0">
       <mj-column>
         <mj-image
+          href="https://abcocap.com/"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/abcocp-logo.png"
           alt="ABCOCP Logo"
           padding-top="24px"
