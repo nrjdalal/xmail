@@ -135,8 +135,51 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-text align="center">
-          <p style="color: white; font-size: 18px; font-weight: 500">• MARKET PERFORMANCE •</p>
+          <p style="color: #fca5a5; font-size: 18px; font-weight: 500">• MARKET PERFORMANCE •</p>
         </mj-text>
+
+        <mj-social padding-bottom="0">
+          <mj-social-element
+            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/trending_up_arrow_icon.png"
+            color="white"
+          >
+            &nbsp;98+ million impressions in media
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social padding-bottom="0">
+          <mj-social-element
+            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/trending_up_arrow_icon.png"
+            color="white"
+          >
+            &nbsp;200K attendees over 14 years
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social padding-bottom="0">
+          <mj-social-element
+            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/trending_up_arrow_icon.png"
+            color="white"
+          >
+            &nbsp;Up to 10K website visitors monthly
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social>
+          <mj-social-element name="facebook" color="white" />
+          <mj-social-element name="twitter" color="white" />
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          href="https://fashionweeksd.com"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-1.jpg"
+          alt="ABCOCP Logo"
+          padding="0"
+        />
       </mj-column>
     </mj-section>
 
