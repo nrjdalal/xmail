@@ -14,7 +14,7 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <!-- header -->
+    <!-- header
     <mj-section background-color="#e5e7eb">
       <mj-column>
         <mj-image
@@ -24,15 +24,22 @@
           padding-top="24px"
           width="100px"
         />
+      </mj-column>
+    </mj-section> -->
 
-        <mj-text align="center" color="black" padding-bottom="0">
-          <p>HOME | ABOUT | EVENTS</p>
-        </mj-text>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          href="https://fashionweeksd.com"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-runway.jpg"
+          alt="ABCOCP Logo"
+          padding="0"
+        />
       </mj-column>
     </mj-section>
 
     <!-- hero -->
-    <mj-hero
+    <!-- <mj-hero
       background-position="bottom center"
       background-url="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-runway.png"
       padding="100px 0px"
@@ -40,7 +47,14 @@
       <mj-text align="center" font-size="18px" font-weight="500">
         <a
           href="https://calendly.com/fwsd/meet?month=2022-03"
-          style="background-color: #00000099; color: white; padding: 10px; font-weight: 700; text-decoration: none"
+          style="
+            background-color: #00000099;
+            color: white;
+            padding: 10px;
+            font-weight: 700;
+            text-decoration: none;
+            line-height: 2;
+          "
         >
           FWSD Fashion Week San Diego®
         </a>
@@ -53,7 +67,7 @@
           WITH PURCHASING POWER
         </p>
       </mj-text>
-    </mj-hero>
+    </mj-hero> -->
 
     <mj-section background-color="black">
       <mj-column padding="15px 0">
@@ -69,6 +83,7 @@
               "
             >
               WE’RE BACK IN-PERSON & LIVE
+              <br />
               <br />
               Fashion/lifestyle events throughout SD and NY
             </td>
@@ -87,6 +102,7 @@
               "
             >
               Be apart of All our Productions with your sponsorship
+              <br />
               <br />
               Partner with your Logo, Product or Service Events 2022
             </td>
