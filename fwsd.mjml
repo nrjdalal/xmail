@@ -160,7 +160,7 @@
         />
 
         <mj-text align="center">
-          <p style="color: white; font-weight: 500">• Get In Front of Your Target Audience •</p>
+          <p style="color: white; font-size: 18px; font-weight: 500">• GET IN FRONT OF YOUR TARGET AUDIENCE •</p>
 
           <p>
             Official Fashion Week event at your location
@@ -171,6 +171,14 @@
             <br />
             VIP SWAG Bag Marketing
           </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text align="center">
+          <p style="color: white; font-size: 18px; font-weight: 500">• MARKET PERFORMANCE •</p>
         </mj-text>
       </mj-column>
     </mj-section>
