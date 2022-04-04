@@ -132,7 +132,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section background-color="black" padding-top="40px" padding-bottom="40px">
       <mj-column>
         <mj-text align="center">
           <p style="color: #fca5a5; font-size: 18px; font-weight: 500">• MARKET PERFORMANCE •</p>
@@ -158,7 +158,7 @@
 
         <mj-social padding-bottom="0">
           <mj-social-element
-            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/trending_up_arrow_icon.png"
+            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/navigation_icon.png"
             color="white"
           >
             &nbsp;Up to 10K website visitors monthly
