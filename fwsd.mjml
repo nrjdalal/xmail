@@ -25,9 +25,17 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section background-color="black" padding-top="40px" padding-bottom="40px">
       <mj-column padding="15px 0">
         <mj-table color="white" align="center" padding="0px 30px">
+          <tr align="center">
+            <td
+              style="align: center; padding: 0 20px; font-size: 18px; border-left: 2.5px solid #fca5a5; color: #fca5a5"
+            >
+              WE’RE BACK IN-PERSON & LIVE
+            </td>
+          </tr>
+
           <tr align="center">
             <td
               style="
@@ -38,9 +46,6 @@
                 border-left: 2.5px solid #fca5a5;
               "
             >
-              WE’RE BACK IN-PERSON & LIVE
-              <br />
-              <br />
               Fashion/lifestyle events throughout SD and NY
             </td>
           </tr>
