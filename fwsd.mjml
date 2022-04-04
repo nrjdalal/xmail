@@ -14,19 +14,6 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <!-- header
-    <mj-section background-color="#e5e7eb">
-      <mj-column>
-        <mj-image
-          href="https://fashionweeksd.com"
-          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-logo.png"
-          alt="ABCOCP Logo"
-          padding-top="24px"
-          width="100px"
-        />
-      </mj-column>
-    </mj-section> -->
-
     <mj-section padding="0">
       <mj-column>
         <mj-image
@@ -37,37 +24,6 @@
         />
       </mj-column>
     </mj-section>
-
-    <!-- hero -->
-    <!-- <mj-hero
-      background-position="bottom center"
-      background-url="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-runway.png"
-      padding="100px 0px"
-    >
-      <mj-text align="center" font-size="18px" font-weight="500">
-        <a
-          href="https://calendly.com/fwsd/meet?month=2022-03"
-          style="
-            background-color: #00000099;
-            color: white;
-            padding: 10px;
-            font-weight: 700;
-            text-decoration: none;
-            line-height: 2;
-          "
-        >
-          FWSD Fashion Week San Diego®
-        </a>
-
-        <p style="background-color: #00000099; color: white; padding: 10px">
-          REACH OVER
-          <br />
-          <span style="color: #fca5a5">200k+ LOCAL CONSUMERS</span>
-          <br />
-          WITH PURCHASING POWER
-        </p>
-      </mj-text>
-    </mj-hero> -->
 
     <mj-section background-color="black">
       <mj-column padding="15px 0">
@@ -165,29 +121,14 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section padding="0">
       <mj-column>
         <mj-image
-          href="https://calendly.com/fwsd/meet?month=2022-03"
-          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-partner.jpg"
-          alt="Building Photo"
-          width="320px"
-          padding-top="0"
+          href="https://fashionweeksd.com"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-1.jpg"
+          alt="ABCOCP Logo"
+          padding="0"
         />
-
-        <mj-text align="center">
-          <p style="color: white; font-size: 18px; font-weight: 500">• GET IN FRONT OF YOUR TARGET AUDIENCE •</p>
-
-          <p>
-            Official Fashion Week event at your location
-            <br />
-            Full year of Digital/Direct marketing
-            <br />
-            Custom crafted partnership w/FWSD Official Fashion Week Affiliation
-            <br />
-            VIP SWAG Bag Marketing
-          </p>
-        </mj-text>
       </mj-column>
     </mj-section>
 
