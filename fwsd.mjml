@@ -17,7 +17,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          href="https://fashionweeksd.com"
+          href="https://calendly.com/fwsd/meet?month=2022-03"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-runway.jpg"
           alt="ABCOCP Logo"
           padding="0"
@@ -124,7 +124,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          href="https://fashionweeksd.com"
+          href="https://calendly.com/fwsd/meet?month=2022-03"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-1.jpg"
           alt="ABCOCP Logo"
           padding="0"
@@ -175,29 +175,24 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          href="https://fashionweeksd.com"
-          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-1.jpg"
+          href="https://calendly.com/fwsd/meet?month=2022-03"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-brands.jpg"
           alt="ABCOCP Logo"
           padding="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#e5e7eb">
+    <mj-section background-color="black">
       <mj-column>
-        <mj-social padding-bottom="0">
-          <mj-social-element
-            src="https://cdn3.iconfinder.com/data/icons/outline-style-1/512/message-128.png"
-            href="mailto:info@fashionweeksd.com"
-          >
-            &nbsp;info@fashionweeksd.com
-          </mj-social-element>
-        </mj-social>
-
-        <mj-text align="center">
-          <p style="font-weight: 500">Fashion Week San Diego</p>
-          <p style="color: black; font-size: 10px">San Diego, CA</p>
-        </mj-text>
+        <mj-button
+          padding="30px"
+          href="https://calendly.com/fwsd/meet?month=2022-03"
+          background-color="#fca5a5"
+          color="black"
+        >
+          Connect with us now
+        </mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
