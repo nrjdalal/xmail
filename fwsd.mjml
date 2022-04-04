@@ -149,7 +149,7 @@
 
         <mj-social padding-bottom="0">
           <mj-social-element
-            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/trending_up_arrow_icon.png"
+            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/user_icon.png"
             color="white"
           >
             &nbsp;200K attendees over 14 years
