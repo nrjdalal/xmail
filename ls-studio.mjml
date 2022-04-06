@@ -28,7 +28,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section> </mj-section>
+    <mj-section background-color="black"> </mj-section>
 
     <mj-section background-color="white">
       <mj-column>
@@ -36,6 +36,44 @@
           We provide scanning, photography and interactive virtual tours for your business and more.
         </mj-text>
         <mj-text> You've come to the right place. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column width="180px">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-1.png"
+          alt=""
+          width="64px"
+        />
+        <mj-text> Professional Photography </mj-text>
+      </mj-column>
+
+      <mj-column width="180px">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-2.png"
+          alt=""
+          width="64px"
+        />
+        <mj-text> Virtual Reality Tours </mj-text>
+      </mj-column>
+
+      <mj-column width="180px">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-3.png"
+          alt=""
+          width="64px"
+        />
+        <mj-text> Floorplans and EPCs </mj-text>
+      </mj-column>
+
+      <mj-column width="180px">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-4.png"
+          alt=""
+          width="64px"
+        />
+        <mj-text> 3D space capture </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
