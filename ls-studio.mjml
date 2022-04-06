@@ -1,23 +1,41 @@
 <mjml>
   <mj-head>
-    <!-- <mj-font
-      name="DM Sans"
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
-    /> -->
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
 
     <mj-attributes>
-      <mj-text font-family="Montserrat" />
+      <mj-text align="center" font-family="Montserrat" font-size="16px" line-height="1.4" />
     </mj-attributes>
   </mj-head>
   <mj-body>
     <!-- header -->
     <mj-section background-color="white">
       <mj-column>
-        <mj-text> Hello Home</mj-text>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-logo.png"
+          alt=""
+          width="128px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="#14B8A6" font-size="18px" font-weight="600"> WE PROVIDE INNOVATIVE SERVICES </mj-text>
+        <mj-text> Interactive virtual tours for you! </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section> </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="#14B8A6" font-size="18px" font-weight="600">
+          We provide scanning, photography and interactive virtual tours for your business and more.
+        </mj-text>
+        <mj-text> You've come to the right place. </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
