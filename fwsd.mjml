@@ -164,7 +164,11 @@
 
         <mj-social>
           <mj-social-element name="facebook" href="https://m.facebook.com/FashionWeekSD/" />
-          <mj-social-element name="instagram" background-color="pink" href="https://www.instagram.com/FashionWeekSD/" />
+          <mj-social-element
+            name="instagram"
+            background-color="#F472B6"
+            href="https://www.instagram.com/FashionWeekSD/"
+          />
           <mj-social-element name="twitter" href="https://mobile.twitter.com/FashionWeekSD" />
         </mj-social>
       </mj-column>
