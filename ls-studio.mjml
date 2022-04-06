@@ -8,11 +8,13 @@
     />
 
     <mj-attributes>
+      <mj-image href="https://www.lenscenicstudio.co.uk" />
+      <mj-section background-color="white" />
       <mj-text align="center" font-family="Montserrat" font-size="16px" line-height="1.4" />
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section background-color="white">
+    <mj-section>
       <mj-column>
         <mj-image
           href="https://www.lenscenicstudio.co.uk"
@@ -24,7 +26,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
+    <mj-section>
       <mj-column>
         <mj-text color="#14B8A6" font-size="18px" font-weight="600"> WE PROVIDE INNOVATIVE SERVICES </mj-text>
         <mj-text> Interactive virtual tours for you! </mj-text>
@@ -32,7 +34,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
+    <mj-section>
       <mj-column>
         <mj-image
           href="https://www.lenscenicstudio.co.uk"
@@ -43,7 +45,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
+    <mj-section>
       <mj-column>
         <mj-text color="#14B8A6" font-size="18px" font-weight="600">
           We provide scanning, photography and interactive virtual tours for your business and more.
@@ -52,7 +54,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
+    <mj-section>
       <mj-column width="180px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-1.png"
@@ -105,7 +107,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#e5e7eb">
+    <mj-section>
       <mj-column>
         <mj-social padding-bottom="0">
           <mj-social-element name="facebook" href="https://www.facebook.com/Lenscenic-Studio-113907734080060" />
