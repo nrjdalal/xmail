@@ -14,7 +14,7 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ffffff.jpg">
       <mj-column>
         <mj-image
           href="https://www.lenscenicstudio.co.uk"
