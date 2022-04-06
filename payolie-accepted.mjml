@@ -16,7 +16,11 @@
   <mj-body>
     <mj-section padding="32px">
       <mj-column background-color="#22C55E" border-radius="10px" padding="64px 16px" width="300px">
-        <mj-image src="https://www.iconsdb.com/icons/preview/white/ok-xl.png" alt="" width="48px" />
+        <mj-image
+          src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/fire-flame-curved-128.png"
+          alt=""
+          width="48px"
+        />
         <mj-text color="white" font-size="18px" font-weight="500"> Cash Accepted </mj-text>
         <mj-text color="#F3F4F6"> Josh King signed up for Payolie to deposit the $20 you sent yesterday. </mj-text>
       </mj-column>
