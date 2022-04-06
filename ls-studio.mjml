@@ -10,14 +10,15 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <!-- header -->
     <mj-section background-color="white">
       <mj-column>
         <mj-image
+          href="https://www.lenscenicstudio.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-logo.png"
           alt=""
           width="128px"
         />
+        <mj-divider border-color="#14B8A6" border-width="2px" />
       </mj-column>
     </mj-section>
 
@@ -25,10 +26,20 @@
       <mj-column>
         <mj-text color="#14B8A6" font-size="18px" font-weight="600"> WE PROVIDE INNOVATIVE SERVICES </mj-text>
         <mj-text> Interactive virtual tours for you! </mj-text>
+        <mj-button href="https://www.lenscenicstudio.co.uk" background-color="#14B8A6"> Contact Us </mj-button>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black"> </mj-section>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image
+          href="https://www.lenscenicstudio.co.uk"
+          src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-main.jpg"
+          alt=""
+          border-radius="10px"
+        />
+      </mj-column>
+    </mj-section>
 
     <mj-section background-color="white">
       <mj-column>
@@ -74,6 +85,34 @@
           width="64px"
         />
         <mj-text> 3D space capture </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#14B8A6">
+      <mj-column>
+        <mj-text color="white" font-size="18px" font-weight="600"> Visit any place right from where you are! </mj-text>
+        <mj-text color="black" font-weight="500"> Why choose Lenscenic Studio for 3D Virtual Tour Services? </mj-text>
+        <mj-text color="white">
+          We provide our clients with a fully interactive 3D virtual environment of your space. Show any room and allow
+          your customers and clients to access it on any device. With us, you can expect to receive a breathtaking,
+          high-resolution 3D virtual tour for your business or property.
+        </mj-text>
+        <mj-button href="https://www.lenscenicstudio.co.uk" background-color="white" color="#14B8A6">
+          Contact Us
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#e5e7eb">
+      <mj-column>
+        <mj-social padding-bottom="0">
+          <mj-social-element name="facebook" href="https://www.facebook.com/Lenscenic-Studio-113907734080060" />
+        </mj-social>
+
+        <mj-text align="center">
+          <p style="font-weight: 500">LENSCENIC STUDIO</p>
+          <p style="color: black; font-size: 10px">© Copyright 2021 All rights reserved</p>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
