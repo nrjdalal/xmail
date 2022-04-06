@@ -9,15 +9,21 @@
     />
 
     <mj-attributes>
-      <mj-all font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
-      <mj-text color="#FECDD3" font-family="DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+      <mj-all font-family="Garet, DM Sans, Arial" font-size="14px" letter-spacing="1px" line-height="1.4" />
+      <mj-text
+        color="#FECDD3"
+        font-family="Garet, DM Sans, Arial"
+        font-size="14px"
+        letter-spacing="1px"
+        line-height="1.4"
+      />
     </mj-attributes>
 
     <mj-style>
-      @font-face { font-family: AceSans; src:
+      @font-face { font-family: Garet; src:
       url('https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/garet.book.woff') format('woff'); } @font-face {
-      font-family: AceSansBold; src:
-      url('https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/garet.heavy.woff') format('woff'); }
+      font-family: GaretBold; src: url('https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/garet.heavy.woff')
+      format('woff'); }
     </mj-style>
   </mj-head>
   <mj-body>
@@ -36,10 +42,8 @@
       <mj-column padding="15px 0">
         <mj-table color="white" align="center" padding="0px 30px">
           <tr align="center">
-            <td
-              style="align: center; padding: 0 20px; font-size: 24px; border-left: 2.5px solid #fecdd3; color: #fecdd3"
-            >
-              WE’RE BACK IN-PERSON & LIVE
+            <td style="align: center; padding: 0 20px; border-left: 2.5px solid #fecdd3; color: #fecdd3">
+              <p style="font-family: GaretBold; font-size: 24px">WE’RE BACK IN-PERSON & LIVE</p>
             </td>
           </tr>
 
@@ -48,7 +52,7 @@
               style="
                 align: center;
                 padding: 20px;
-                font-size: 20px;
+                font-size: 18px;
                 border-bottom: 2.5px solid #fecdd3;
                 border-left: 2.5px solid #fecdd3;
               "
@@ -64,7 +68,7 @@
               style="
                 align: center;
                 padding: 20px;
-                font-size: 20px;
+                font-size: 18px;
                 border-bottom: 2.5px solid #fecdd3;
                 border-right: 2.5px solid #fecdd3;
               "
@@ -129,7 +133,7 @@
     <mj-section background-color="black" padding-top="40px" padding-bottom="40px">
       <mj-column>
         <mj-text align="center">
-          <p style="color: #fecdd3; font-size: 18px; font-weight: 500">• MARKET PERFORMANCE •</p>
+          <p style="font-family: GaretBold; font-size: 24px; color: #fecdd3">• MARKET PERFORMANCE •</p>
         </mj-text>
 
         <mj-social padding-bottom="0">
