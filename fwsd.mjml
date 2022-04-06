@@ -29,7 +29,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          href="https://calendly.com/fwsd/meet?month=2022-03"
+          href="https://fashionweeksd.com/wp-content/uploads/2020/10/compressed-deck-2021.pdf"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/fwsd-runway.jpg"
           alt="ABCOCP Logo"
           padding="0"
@@ -99,7 +99,7 @@
                 </li>
                 <br />
                 <li>
-                  October 09
+                  OCTOBER 09
                   <br />
                   San Diego Trunk Show
                 </li>
@@ -163,8 +163,9 @@
         </mj-social>
 
         <mj-social>
-          <mj-social-element name="facebook" color="white" />
-          <mj-social-element name="twitter" color="white" />
+          <mj-social-element name="facebook" href="https://m.facebook.com/FashionWeekSD/" />
+          <mj-social-element name="instagram" background-color="pink" href="https://www.instagram.com/FashionWeekSD/" />
+          <mj-social-element name="twitter" href="https://mobile.twitter.com/FashionWeekSD" />
         </mj-social>
       </mj-column>
     </mj-section>
