@@ -23,7 +23,7 @@
     </mj-section>
 
     <mj-section padding="0 32px">
-      <mj-column border="1px dashed black" border-radius="10px" padding="16px" width="300px">
+      <mj-column border="1px dashed #9CA3AF" border-radius="10px" padding="16px" width="300px">
         <mj-text> Share this link and we'll send you $1 when your friends try Payolie. </mj-text>
         <mj-text padding-top="0">
           <a href="https://veroxyle.com" style="color: #22c55e">https://veroxyle.com</a>
