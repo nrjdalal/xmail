@@ -21,7 +21,6 @@
       </mj-column>
     </mj-section>
 
-    <!-- https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/building.jpg -->
     <mj-section background-color="#10B981" padding-bottom="32px">
       <mj-column>
         <mj-text font-size="18px"> IF YOU ARE LOOKING FOR A </mj-text>
@@ -109,6 +108,53 @@
         <mj-text color="white" font-size="18px" font-weight="500"> OUR MISSION </mj-text>
         <mj-text color="white" padding-top="0">
           Build good relationship and deliver a reliable and personalized experience to our cutomer.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10B981">
+      <mj-column>
+        <mj-social padding-bottom="0">
+          <mj-social-element
+            color="white"
+            src="https://iconic.app/icons/iconic/png/white/phone.png"
+            href="tel:07737959010"
+          >
+            &nbsp;077 3795 9010
+          </mj-social-element>
+
+          <mj-social-element
+            color="white"
+            src="https://iconic.app/icons/iconic/png/white/phone.png"
+            href="tel:02039255744"
+          >
+            &nbsp;020 3925 5744
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social padding="0">
+          <mj-social-element
+            color="white"
+            src="https://iconic.app/icons/iconic/png/white/mail.png"
+            href="mailto:info@https://www.priestgateltd.co.uk"
+          >
+            &nbsp;info@https://www.priestgateltd.co.uk
+          </mj-social-element>
+        </mj-social>
+
+        <mj-social padding="0">
+          <mj-social-element
+            color="white"
+            src="https://iconic.app/icons/iconic/png/white/world.png"
+            href="https://www.priestgateltd.co.uk"
+          >
+            &nbsp;priestgateltd.co.uk
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text align="center">
+          <p style="font-weight: 500">Priestgate Recruitment Solutions</p>
+          <p style="font-size: 10px">85 Great Portland Street London, W1W 7LT</p>
         </mj-text>
       </mj-column>
     </mj-section>
