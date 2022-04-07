@@ -11,7 +11,7 @@
   </mj-head>
 
   <mj-body>
-    <mj-wrapper padding="20px" background-color="#ccc">
+    <mj-wrapper padding="20px 20px 0 20px" background-color="#ccc">
       <mj-hero padding="0px" padding-left="0px" padding-right="0px">
         <mj-divider width="100%" padding="0px" border-color="#040" border-width="4px" />
       </mj-hero>
@@ -22,7 +22,7 @@
           <mj-text align="center" color="#000">
             It seems that you've forgotten your password.
           </mj-text>
-          <mj-image src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/fire-flame-curved-128.png" alt="" width="98px" />
+          <mj-image src="https://images.unsplash.com/photo-1522435229388-6f7a422cd95b" alt="" width="80px" height="80px" border-radius="50%" />
 
           <mj-button font-family="montserrat" background-color="blue" color="white" href="https://google.com">
             Reset Password
@@ -41,8 +41,8 @@
         <mj-column>
           <mj-text color="#666">
             San Francisco, 35, Avenue city, 10115, USA
-          </mj-text>
-          <mj-text color="#666">
+            <br />
+            <br />
             <a href="" style="color:#666">Unsubscribe</a> from our emails
           </mj-text>
         </mj-column>

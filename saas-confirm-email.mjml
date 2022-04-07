@@ -18,12 +18,14 @@
       <mj-section padding="10px">
         <mj-column>
           <mj-image src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/fire-flame-curved-128.png" alt="" width="48px" />
-          <mj-text color="black" font-size="18px" font-weight="500"> Please help us improve {{product}} </mj-text>
-          <mj-text align="justify" color="#000">
-            You recently canceled our {{product}} subscription and I'm sorry to see you go. Thank you for being with us. There could be various reasons for leaving and I really hope you can help us learn and improve.
+          <mj-text color="black" font-size="18px" font-weight="500"> Please confirm your email</mj-text>
+          <mj-text align="center" color="#000">
+            yes we know.
+            <br />
+            An email to confirm email.
           </mj-text>
-          <mj-text align="justify">
-            If it's not too much to ask, please let me know what made you unhappy, or what we could have done better. Please share your feedback here.
+          <mj-text align="center" color="#000">
+            please ................................................... {{product}}
           </mj-text>
 
           <mj-button font-family="montserrat" background-color="blue" color="white" href="https://google.com">
@@ -34,12 +36,22 @@
 
       <mj-section padding="0px 10px">
         <mj-column padding="16px 0px">
-          <mj-text align="left">Thank You, and hope our paths will cross again.</mj-text>
-          <mj-text align="left">Best Regards,</mj-text>
-          <mj-text align="left" line-height="0.1">csaba Kissi</mj-text>
-          <mj-text align="left" line-height="0.1">Elon musk road, CEO and Founder</mj-text>
-          <mj-text align="left" line-height="0.1">
+          <mj-text align="center">
+            Thank You, and hope our paths will cross again.
+            <br />
             <a href="">https://veroxyle.com</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="24px" font-weight="600">
+            Need Help?
+          </mj-text>
+          <mj-text>
+            Please send feedack will again
+            <br />
+            to <a href="">https://veroxyle.com</a>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -47,8 +59,7 @@
         <mj-column>
           <mj-text color="#666">
             San Francisco, 35, Avenue city, 10115, USA
-          </mj-text>
-          <mj-text color="#666">
+            <br />
             <a href="" style="color:#666">Unsubscribe</a> from our emails
           </mj-text>
         </mj-column>
