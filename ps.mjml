@@ -112,7 +112,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#10B981">
+    <mj-section background-color="#10B981" padding-bottom="32px">
       <mj-column>
         <mj-social padding-bottom="0">
           <mj-social-element
