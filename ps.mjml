@@ -36,5 +36,39 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#3B82F6">
+      <mj-column>
+        <mj-image
+          src="https://iconic.app/icons/iconic/png/white/light-bulb.png"
+          alt=""
+          border="1px solid white"
+          border-radius="99px"
+          width="30px"
+        />
+        <mj-text color="white" font-size="18px" font-weight="500"> OUR GOAL </mj-text>
+        <mj-text color="white" padding-top="0">
+          Provide our partners with exceptional service and the expertise necessary to efficiently support and enhance
+          your recruiting and hiring practices.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#10B981">
+      <mj-column>
+        <mj-image
+          src="https://iconic.app/icons/iconic/png/white/light-bulb.png"
+          alt=""
+          border="1px solid white"
+          border-radius="99px"
+          width="30px"
+        />
+        <mj-text color="white" font-size="18px" font-weight="500"> SECTORS </mj-text>
+        <mj-text color="white" padding-top="0">
+          We can help with industrial and office cleaning, we supply security guards and we help businesses with their
+          pest control problem
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
