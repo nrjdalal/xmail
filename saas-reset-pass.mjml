@@ -1,8 +1,11 @@
 <mjml>
   <mj-head>
-    <mj-title>Payolie Accepted</mj-title>
+    <mj-title>Payolie Reset</mj-title>
 
-    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" />
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
 
     <mj-attributes>
       <mj-section background-color="white" />
@@ -17,12 +20,20 @@
       </mj-hero>
       <mj-section padding="10px">
         <mj-column>
-          <mj-image src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/fire-flame-curved-128.png" alt="" width="48px" />
+          <mj-image
+            src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/fire-flame-curved-128.png"
+            alt=""
+            width="48px"
+          />
           <mj-text color="black" font-size="18px" font-weight="500"> Oops! </mj-text>
-          <mj-text align="center" color="#000">
-            It seems that you've forgotten your password.
-          </mj-text>
-          <mj-image src="https://images.unsplash.com/photo-1446511437394-36cdff3ae1b3" alt="" width="80px" height="80px" border-radius="50%" />
+          <mj-text align="center" color="#000"> It seems that you've forgotten your password. </mj-text>
+          <mj-image
+            src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ls-studio-main.jpg"
+            alt=""
+            width="80px"
+            height="80px"
+            border-radius="50%"
+          />
 
           <mj-button font-family="montserrat" background-color="blue" color="white" href="https://google.com">
             Reset Password
@@ -33,7 +44,8 @@
       <mj-section padding="0px">
         <mj-column padding="16px 0px">
           <mj-text align="center" color="#999">
-            If you did not make this request, just ignore this email. Otherwise please click the button above to reset your password.
+            If you did not make this request, just ignore this email. Otherwise please click the button above to reset
+            your password.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -43,7 +55,7 @@
             San Francisco, 35, Avenue city, 10115, USA
             <br />
             <br />
-            <a href="" style="color:#666">Unsubscribe</a> from our emails
+            <a href="" style="color: #666">Unsubscribe</a> from our emails
           </mj-text>
         </mj-column>
       </mj-section>
