@@ -37,13 +37,18 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#3B82F6">
-      <mj-column>
+    <mj-section background-color="#3B82F6" padding="30px 30px 0">
+      <mj-column
+        border-bottom="2.5px solid white"
+        border-left="2.5px solid white"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
         <mj-image
           src="https://iconic.app/icons/iconic/png/white/light-bulb.png"
           alt=""
-          border="1px solid white"
-          border-radius="99px"
+          border="1.5px solid white"
+          border-radius="10px"
           width="30px"
         />
         <mj-text color="white" font-size="18px" font-weight="500"> OUR GOAL </mj-text>
@@ -54,19 +59,45 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#10B981">
-      <mj-column>
+    <mj-section background-color="#3B82F6" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid white"
+        border-right="2.5px solid white"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
         <mj-image
-          src="https://iconic.app/icons/iconic/png/white/light-bulb.png"
+          src="https://iconic.app/icons/iconic/png/white/announcement.png"
           alt=""
-          border="1px solid white"
-          border-radius="99px"
+          border="1.5px solid white"
+          border-radius="10px"
           width="30px"
         />
         <mj-text color="white" font-size="18px" font-weight="500"> SECTORS </mj-text>
         <mj-text color="white" padding-top="0">
           We can help with industrial and office cleaning, we supply security guards and we help businesses with their
-          pest control problem
+          pest control problem.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3B82F6" padding="0 30px 30px">
+      <mj-column
+        border-bottom="2.5px solid white"
+        border-left="2.5px solid white"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://iconic.app/icons/iconic/png/white/light-bulb.png"
+          alt=""
+          border="1.5px solid white"
+          border-radius="10px"
+          width="30px"
+        />
+        <mj-text color="white" font-size="18px" font-weight="500"> OUR MISSION </mj-text>
+        <mj-text color="white" padding-top="0">
+          Build good relationship and deliver a reliable and personalized experience to our cutomer.
         </mj-text>
       </mj-column>
     </mj-section>
