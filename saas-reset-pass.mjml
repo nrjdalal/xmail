@@ -22,7 +22,7 @@
           <mj-text align="center" color="#000">
             It seems that you've forgotten your password.
           </mj-text>
-          <mj-image src="https://images.unsplash.com/photo-1522435229388-6f7a422cd95b" alt="" width="80px" height="80px" border-radius="50%" />
+          <mj-image src="https://images.unsplash.com/photo-1446511437394-36cdff3ae1b3" alt="" width="80px" height="80px" border-radius="50%" />
 
           <mj-button font-family="montserrat" background-color="blue" color="white" href="https://google.com">
             Reset Password
