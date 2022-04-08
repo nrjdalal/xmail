@@ -15,7 +15,7 @@
 
   <mj-body>
     <mj-section padding="32px">
-      <mj-column background-color="#2563EB" border-radius="10px" padding-bottom="24px">
+      <mj-column background-color="#5857D4" border-radius="10px" padding-bottom="24px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/payolie-logo.png"
           alt=""
@@ -35,7 +35,7 @@
           Fan streamed <span style="color: #ddd">song name</span> and generated
           <span style="color: #ddd">1+</span> stream.
         </mj-text>
-        <mj-button background-color="white" color="#2563EB" font-weight="500" padding-top="24px" width="200px">
+        <mj-button background-color="white" color="#5857D4" font-weight="500" padding-top="24px" width="200px">
           Send Credits
         </mj-button>
         <mj-text color="#F3F4F6" font-size="12px" font-weight="500" padding-top="0"> View User's Profile </mj-text>
