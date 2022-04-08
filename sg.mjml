@@ -32,7 +32,9 @@
           BLACK MASKS
         </mj-text>
         <mj-text font-size="16px" font-weight="600" container-background-color="white" color="black">
-          SG Washable 2 Layer Cotton-Lycra Mask
+          SG Washable 2 Layer
+          <br />
+          Cotton-Lycra Cooling Mask
         </mj-text>
       </mj-column>
     </mj-section>
@@ -45,11 +47,9 @@
         padding-top="15px"
       >
         <mj-image
-          src="https://iconic.app/icons/iconic/png/white/light-bulb.png"
+          src="https://images-na.ssl-images-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif"
           alt=""
           border="1.5px solid white"
-          border-radius="10px"
-          width="30px"
         />
         <mj-text color="white" font-size="18px" font-weight="500"> OUR GOAL </mj-text>
         <mj-text color="white" padding-top="0">
