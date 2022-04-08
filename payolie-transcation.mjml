@@ -15,7 +15,7 @@
 
   <mj-body>
     <mj-section padding="32px">
-      <mj-column background-color="#EC4899" border-radius="10px" padding-bottom="24px">
+      <mj-column background-color="#E570FF" border-radius="10px" padding-bottom="24px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/payolie-logo.png"
           alt=""
@@ -25,7 +25,7 @@
         <mj-text color="white" font-size="20px" font-weight="600" padding-top="48px" padding-bottom="48px">
           You just earned <span style="color: #ddd">$50.0941</span> PYL!
         </mj-text>
-        <mj-button background-color="white" color="#EC4899" font-weight="500" padding-top="24px" width="200px">
+        <mj-button background-color="white" color="#E570FF" font-weight="500" padding-top="24px" width="200px">
           Review Transcation
         </mj-button>
         <mj-text color="#F3F4F6" font-size="12px" font-weight="500" padding-top="0"> Go Shopping </mj-text>
