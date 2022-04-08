@@ -28,13 +28,12 @@
           alt=""
           width="96px"
           border-radius="196px"
+          padding-bottom="0"
         />
-        <mj-text color="white" font-size="18px" font-weight="500" padding-top="12px" padding-bottom="0">
-          Fan Name
-        </mj-text>
+        <mj-text color="white" font-size="18px" font-weight="500" padding-bottom="0"> Fan Name </mj-text>
         <mj-text color="#F3F4F6" font-size="12px" font-weight="500" padding-top="0">
-          Fan streamed <span style="color: #ddd; font-weight: 400">Song Name</span> and generated
-          <span style="color: #ddd; font-weight: 400">1+</span> stream.
+          Fan streamed <span style="color: #ddd">song name</span> and generated
+          <span style="color: #ddd">1+</span> stream.
         </mj-text>
         <mj-button background-color="white" color="#2563EB" font-weight="500" padding-top="24px" width="200px">
           Send Credits

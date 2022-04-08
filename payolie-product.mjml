@@ -1,0 +1,72 @@
+<mjml>
+  <mj-head>
+    <mj-title>Payolie Improve</mj-title>
+
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    />
+
+    <mj-attributes>
+      <mj-section background-color="white" />
+      <mj-text align="center" font-family="Montserrat, Arial" line-height="1.4" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper padding="20px 20px 0 20px" background-color="#ccc">
+      <mj-hero padding="0px" padding-left="0px" padding-right="0px">
+        <mj-divider width="100%" padding="0px" border-color="#040" border-width="4px" />
+      </mj-hero>
+
+      <mj-section padding="10px">
+        <mj-column>
+          <mj-image
+            src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/fire-flame-curved-128.png"
+            alt=""
+            width="48px"
+          />
+          <mj-text color="black" font-size="18px" font-weight="500"> Thank you for your order </mj-text>
+          <mj-text align="left" color="#000">
+            Hi Username,
+            <br /><br />
+
+            You recently got our product subscription. Thank you for being with us. Thank you for considering us and I
+            really hope you can help us learn and improve.
+          </mj-text>
+          <mj-text align="left">
+            If it's not too much to ask, please leave a feedback / what we could have done better.
+          </mj-text>
+          <mj-button font-family="montserrat" background-color="blue" color="white" href="https://google.com">
+            Share Your Feedback
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 10px 24px 10px">
+        <mj-column>
+          <mj-text align="left">Thank You, and hope our paths will cross again.</mj-text>
+          <mj-text align="left">Best Regards,</mj-text>
+          <mj-text align="left">
+            csaba Kissi
+            <br />
+            Elon musk road, CEO and Founder
+            <br />
+            <a href="">https://veroxyle.com</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ccc">
+        <mj-column>
+          <mj-text color="#666">
+            San Francisco, 35, Avenue city, 10115, USA
+            <br />
+            <br />
+            <a href="" style="color: #666">Unsubscribe</a> from our emails
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
