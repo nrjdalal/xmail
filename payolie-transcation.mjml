@@ -23,7 +23,7 @@
           padding-bottom="0"
         />
         <mj-text color="white" font-size="20px" font-weight="600" padding-top="64px" padding-bottom="48px">
-          You just earned <span style="color: #ddd">$50.0941</span> PYL!
+          You just earned <span style="color: #fff">$50.0941</span> PYL!
         </mj-text>
         <mj-button background-color="white" color="#E570FF" font-weight="500" padding-top="24px" width="200px">
           Review Transcation
