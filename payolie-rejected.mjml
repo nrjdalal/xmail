@@ -15,7 +15,7 @@
 
   <mj-body>
     <mj-section padding="32px">
-      <mj-column background-color="#EF4444" border-radius="10px" padding="64px 16px" width="300px">
+      <mj-column background-color="#EF4444" border-radius="10px" padding="64px 16px" width="400px">
         <mj-image
           src="https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/circle-xmark-128.png"
           alt=""
@@ -27,7 +27,7 @@
     </mj-section>
 
     <mj-section padding="0 32px">
-      <mj-column border="1px dashed #9CA3AF" border-radius="10px" padding="16px" width="300px">
+      <mj-column border="1px dashed #9CA3AF" border-radius="10px" padding="16px" width="400px">
         <mj-text> Share this link and we'll send you $1 when your friends try Payolie. </mj-text>
         <mj-text padding-top="0">
           <a href="https://veroxyle.com" style="color: #ef4444">https://veroxyle.com</a>
@@ -51,7 +51,7 @@
     </mj-section>
 
     <mj-section padding-top="0">
-      <mj-column width="300px">
+      <mj-column width="400px">
         <mj-text>© Payolie | Account | Security</mj-text>
       </mj-column>
     </mj-section>
