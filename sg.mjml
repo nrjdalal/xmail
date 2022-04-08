@@ -6,6 +6,8 @@
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
     />
     <mj-attributes>
+      <mj-button href="https://amzn.to/3ulpjSt" background-color="white" color="black" />
+      <mj-image href="https://amzn.to/3ulpjSt" />
       <mj-section background-color="black" />
       <mj-text align="center" color="white" font-family="Montserrat, Arial" line-height="1.4" />
     </mj-attributes>
@@ -14,7 +16,6 @@
     <mj-section padding-top="32px" padding-bottom="0">
       <mj-column>
         <mj-image
-          href="https://www.priestgateltd.co.uk"
           src="https://m.media-amazon.com/images/I/81IChbtpFuS._AC_UX569_.jpg"
           alt="Masks"
           border-radius="10px"
@@ -59,6 +60,7 @@
           SG cotton face masks are adjustable because we believe everyone has a different size face/head so it needs to
           be adjustable. The rubber slides on our fabric mask allows you to adjust to your desired size.
         </mj-text>
+        <mj-button> BUY NOW </mj-button>
       </mj-column>
     </mj-section>
 
@@ -82,6 +84,7 @@
           your protection and comfort! SG adult face mask protects enough but also isn't overly thick because you still
           meed to breath!
         </mj-text>
+        <mj-button> BUY NOW </mj-button>
       </mj-column>
     </mj-section>
 
@@ -106,6 +109,7 @@
           dirt until you are able to wash your black cloth mask. These aren't just Womens masks, although it has a
           feminine design men wear theses as-well. We have a male model in one of our images on this listing.
         </mj-text>
+        <mj-button> BUY NOW </mj-button>
       </mj-column>
     </mj-section>
 
@@ -129,6 +133,7 @@
           you want a cool mask that feels lightweight and breathable, you are at the right place! Although it says
           cooling, it will not actually make you cold so you are still able to use this in the cold weather as-well.
         </mj-text>
+        <mj-button> BUY NOW </mj-button>
       </mj-column>
     </mj-section>
 
@@ -151,55 +156,24 @@
           We can guarantee our cotton masks for women and men are great quality and have already satisfied tons of our
           customers! If you are not satisfied get your money back guaranteed.
         </mj-text>
+        <mj-button> BUY NOW </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
-        <mj-social padding-bottom="0">
-          <mj-social-element
-            color="white"
-            src="https://iconic.app/icons/iconic/png/white/phone.png"
-            href="tel:07737959010"
-          >
-            &nbsp;077 3795 9010
-          </mj-social-element>
-
-          <mj-social-element
-            color="white"
-            src="https://iconic.app/icons/iconic/png/white/phone.png"
-            href="tel:02039255744"
-          >
-            &nbsp;020 3925 5744
-          </mj-social-element>
-        </mj-social>
-
-        <mj-social padding="0">
-          <mj-social-element
-            color="white"
-            src="https://iconic.app/icons/iconic/png/white/mail.png"
-            href="mailto:info@https://www.priestgateltd.co.uk"
-          >
-            &nbsp;info@https://www.priestgateltd.co.uk
-          </mj-social-element>
-        </mj-social>
-
         <mj-social padding-top="0">
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://www.priestgateltd.co.uk"
+            href="https://amzn.to/3ulpjSt"
           >
-            &nbsp;priestgateltd.co.uk
+            &nbsp;https://amzn.to/3ulpjSt
           </mj-social-element>
         </mj-social>
 
         <mj-text container-background-color="white">
-          <a href="https://www.priestgateltd.co.uk" style="color: black; text-decoration: none">
-            <span style="font-weight: 500">Priestgate Recruitment Solutions</span>
-            <br />
-            <span style="font-size: 10px">85 Great Portland Street London, W1W 7LT</span></a
-          >
+          <a style="color: black; text-decoration: none"> <span style="font-size: 10px">Rated 4.5 out of 5</span></a>
         </mj-text>
       </mj-column>
     </mj-section>
