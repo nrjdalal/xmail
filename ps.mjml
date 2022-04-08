@@ -85,7 +85,7 @@
           border-radius="10px"
           width="30px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> SECTORS </mj-text>
+        <mj-text color="white" font-size="18px" font-weight="500"> SERVICES </mj-text>
         <mj-text color="white" padding-top="0">
           We can help with industrial and office cleaning, we supply security guards and we help businesses with their
           pest control problem.
