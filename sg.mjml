@@ -11,6 +11,18 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
+    <mj-section padding-top="32px" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          href="https://www.priestgateltd.co.uk"
+          src="https://m.media-amazon.com/images/I/81IChbtpFuS._AC_UX569_.jpg"
+          alt="Masks"
+          border-radius="10px"
+          width="360px"
+        />
+      </mj-column>
+    </mj-section>
+
     <mj-section background-color="black" padding-bottom="32px">
       <mj-column>
         <mj-text font-size="18px"> GET YOUR OWN PAIR OF </mj-text>
@@ -25,17 +37,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0">
-      <mj-column>
-        <mj-image
-          href="https://www.priestgateltd.co.uk"
-          src="https://m.media-amazon.com/images/I/81IChbtpFuS._AC_UX569_.jpg"
-          alt="Email Logo"
-        />
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="#3B82F6" padding="48px 30px 0">
+    <mj-section background-color="black" padding="48px 30px 0">
       <mj-column
         border-bottom="2.5px solid white"
         border-left="2.5px solid white"
@@ -57,7 +59,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#3B82F6" padding="0 30px">
+    <mj-section background-color="black" padding="0 30px">
       <mj-column
         border-bottom="2.5px solid white"
         border-right="2.5px solid white"
@@ -79,7 +81,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#3B82F6" padding="0 30px 48px">
+    <mj-section background-color="black" padding="0 30px 48px">
       <mj-column
         border-bottom="2.5px solid white"
         border-left="2.5px solid white"

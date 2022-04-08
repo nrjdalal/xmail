@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Priestgate Recruitment Solutions</mj-title>
+    <mj-title>Priestgate Services</mj-title>
     <mj-font
       name="Montserrat"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
@@ -14,7 +14,7 @@
     <mj-section>
       <mj-column>
         <mj-image
-          href="https://www.priestgateltd.co.uk"
+          href="priestgateltd.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ps-logo.jpg"
           alt="Email Logo"
           width="196px"
@@ -41,7 +41,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          href="https://www.priestgateltd.co.uk"
+          href="priestgateltd.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/xmail/main/assets/ps.png"
           alt="Email Logo"
           padding="0"
@@ -138,9 +138,9 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/mail.png"
-            href="mailto:info@https://www.priestgateltd.co.uk"
+            href="mailto:info@priestgateltd.co.uk"
           >
-            &nbsp;info@https://www.priestgateltd.co.uk
+            &nbsp;info@priestgateltd.co.uk
           </mj-social-element>
         </mj-social>
 
@@ -148,18 +148,22 @@
           <mj-social-element
             color="white"
             src="https://iconic.app/icons/iconic/png/white/world.png"
-            href="https://www.priestgateltd.co.uk"
+            href="priestgateltd.co.uk"
           >
             &nbsp;priestgateltd.co.uk
           </mj-social-element>
         </mj-social>
 
         <mj-text container-background-color="white">
-          <a href="https://www.priestgateltd.co.uk" style="color: #10b981; text-decoration: none">
+          <a href="priestgateltd.co.uk" style="color: #10b981; text-decoration: none">
             <span style="font-weight: 500">Priestgate Recruitment Solutions</span>
-            <br />
-            <span style="font-size: 10px">85 Great Portland Street London, W1W 7LT</span></a
-          >
+            <br /><br />
+            <span style="font-size: 10px">
+              Branch Address: 8 Old Barn Court, Holbeach, PE12 8LZ
+              <br />
+              85 Great Portland Street London, W1W 7LT</span
+            >
+          </a>
         </mj-text>
       </mj-column>
     </mj-section>
