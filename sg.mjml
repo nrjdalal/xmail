@@ -32,7 +32,7 @@
           BLACK MASKS
         </mj-text>
         <mj-text font-size="16px" font-weight="600" container-background-color="white" color="black">
-          <a href="https://amzn.to/3ulpjSt" style="text-decoration: none">
+          <a href="https://amzn.to/3ulpjSt" style="color: #38bdf8; text-decoration: none">
             SG Washable 2 Layer
             <br />
             Cotton-Lycra Cooling Mask
@@ -55,7 +55,7 @@
           border-radius="10px"
           width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> Adjustable </mj-text>
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Adjustable </mj-text>
         <mj-text color="white" padding-top="0">
           SG cotton face masks are adjustable because we believe everyone has a different size face/head so it needs to
           be adjustable. The rubber slides on our fabric mask allows you to adjust to your desired size.
@@ -77,7 +77,7 @@
           border-radius="10px"
           width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> 2 Layer Protection </mj-text>
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> 2 Layer Protection </mj-text>
         <mj-text color="white" padding-top="0">
           Our cool masks have Lycra-Cooling fabric on the outside so you can still breath and cotton on the inside for
           your protection and comfort! SG adult face mask protects enough but also isn't overly thick because you still
@@ -100,7 +100,7 @@
           border-radius="10px"
           width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> Washable Masks </mj-text>
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Washable Masks </mj-text>
         <mj-text color="white" padding-top="0">
           Cloth face masks are great because you can rewash and re-wear! Saves money and is very convenient. We chose
           our masks black so they look cleaner for longer. Of course with the black colour it will hide any stains or
@@ -124,7 +124,7 @@
           border-radius="10px"
           width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> Breathable </mj-text>
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Breathable </mj-text>
         <mj-text color="white" padding-top="0">
           Our 2 pack adult mask is an extremely breathable mask because of the Lycra-cooling technology on the mask. If
           you want a cool mask that feels lightweight and breathable, you are at the right place! Although it says
@@ -147,7 +147,7 @@
           border-radius="10px"
           width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> Customer Satisfaction Guaranteed </mj-text>
+        <mj-text color="#22D3EE" font-size="18px" font-weight="500"> Customer Satisfaction Guaranteed </mj-text>
         <mj-text color="white" padding-top="0">
           We can guarantee our cotton masks for women and men are great quality and have already satisfied tons of our
           customers! If you are not satisfied get your money back guaranteed.
