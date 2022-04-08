@@ -47,14 +47,17 @@
         padding-top="15px"
       >
         <mj-image
-          src="https://images-na.ssl-images-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif"
+          src="https://m.media-amazon.com/images/I/813eUppBXmS._AC_UX569_.jpg"
           alt=""
-          border="1.5px solid white"
+          border="1.5px solid
+        white"
+          border-radius="10px"
+          width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> OUR GOAL </mj-text>
+        <mj-text color="white" font-size="18px" font-weight="500"> Adjustable </mj-text>
         <mj-text color="white" padding-top="0">
-          Provide our partners with exceptional service and the expertise necessary to efficiently support and enhance
-          your recruiting and hiring practices.
+          SG cotton face masks are adjustable because we believe everyone has a different size face/head so it needs to
+          be adjustable. The rubber slides on our fabric mask allows you to adjust to your desired size.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -67,16 +70,64 @@
         padding-top="15px"
       >
         <mj-image
-          src="https://iconic.app/icons/iconic/png/white/announcement.png"
+          src="https://m.media-amazon.com/images/I/713FoICQvvS._AC_UX569_.jpg"
           alt=""
           border="1.5px solid white"
           border-radius="10px"
-          width="30px"
+          width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> SECTORS </mj-text>
+        <mj-text color="white" font-size="18px" font-weight="500"> 2 Layer Protection </mj-text>
         <mj-text color="white" padding-top="0">
-          We can help with industrial and office cleaning, we supply security guards and we help businesses with their
-          pest control problem.
+          Our cool masks have Lycra-Cooling fabric on the outside so you can still breath and cotton on the inside for
+          your protection and comfort! SG adult face mask protects enough but also isn't overly thick because you still
+          meed to breath!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid white"
+        border-left="2.5px solid white"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://m.media-amazon.com/images/I/81UE1rj7ojS._AC_UX569_.jpg"
+          alt=""
+          border="1.5px solid white"
+          border-radius="10px"
+          width="300px"
+        />
+        <mj-text color="white" font-size="18px" font-weight="500"> Washable Masks </mj-text>
+        <mj-text color="white" padding-top="0">
+          Cloth face masks are great because you can rewash and re-wear! Saves money and is very convenient. We chose
+          our masks black so they look cleaner for longer. Of course with the black colour it will hide any stains or
+          dirt until you are able to wash your black cloth mask. These aren't just Womens masks, although it has a
+          feminine design men wear theses as-well. We have a male model in one of our images on this listing.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 30px">
+      <mj-column
+        border-bottom="2.5px solid white"
+        border-right="2.5px solid white"
+        padding-bottom="15px"
+        padding-top="15px"
+      >
+        <mj-image
+          src="https://m.media-amazon.com/images/I/71WjVHXn9KS._AC_UX569_.jpg"
+          alt=""
+          border="1.5px solid white"
+          border-radius="10px"
+          width="300px"
+        />
+        <mj-text color="white" font-size="18px" font-weight="500"> Breathable </mj-text>
+        <mj-text color="white" padding-top="0">
+          Our 2 pack adult mask is an extremely breathable mask because of the Lycra-cooling technology on the mask. If
+          you want a cool mask that feels lightweight and breathable, you are at the right place! Although it says
+          cooling, it will not actually make you cold so you are still able to use this in the cold weather as-well.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -89,15 +140,16 @@
         padding-top="15px"
       >
         <mj-image
-          src="https://iconic.app/icons/iconic/png/white/target.png"
+          src="https://m.media-amazon.com/images/I/71upGS4VxjS._AC_UX569_.jpg"
           alt=""
           border="1.5px solid white"
           border-radius="10px"
-          width="30px"
+          width="300px"
         />
-        <mj-text color="white" font-size="18px" font-weight="500"> OUR MISSION </mj-text>
+        <mj-text color="white" font-size="18px" font-weight="500"> Customer Satisfaction Guaranteed </mj-text>
         <mj-text color="white" padding-top="0">
-          Build good relationship and deliver a reliable and personalized experience to our cutomer.
+          We can guarantee our cotton masks for women and men are great quality and have already satisfied tons of our
+          customers! If you are not satisfied get your money back guaranteed.
         </mj-text>
       </mj-column>
     </mj-section>
