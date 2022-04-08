@@ -34,9 +34,34 @@
             You recently got our product subscription. Thank you for being with us. Thank you for considering us and I
             really hope you can help us learn and improve.
           </mj-text>
-          <mj-text align="left">
+
+          <mj-table>
+            <tr style="border-bottom: 1px solid #ecedee; text-align: left; padding: 15px 0">
+              <th style="padding: 0 15px 0 0">Name</th>
+              <th style="padding: 0 15px">Quantity</th>
+              <th style="padding: 0 0 0 15px; text-align: right">Total</th>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0">Product One</td>
+              <td style="padding: 0 15px">1</td>
+              <td style="padding: 0 0 0 15px; text-align: right">$10</td>
+            </tr>
+            <tr>
+              <td style="padding: 0 15px 0 0">Product Two</td>
+              <td style="padding: 0 15px">2</td>
+              <td style="padding: 0 0 0 15px; text-align: right">$30</td>
+            </tr>
+          </mj-table>
+          <mj-text align="left" color="#999">
             If it's not too much to ask, please leave a feedback / what we could have done better.
           </mj-text>
+
+          <mj-text color="black" font-size="18px" font-weight="500"> Let us know your experience</mj-text>
+          <mj-text align="left" color="#000">
+            You recently got our product subscription. Thank you for being with us. Thank you for considering us and I
+            really hope you can help us learn and improve.
+          </mj-text>
+
           <mj-button font-family="montserrat" background-color="blue" color="white" href="https://google.com">
             Share Your Feedback
           </mj-button>
@@ -45,7 +70,6 @@
 
       <mj-section padding="0 10px 24px 10px">
         <mj-column>
-          <mj-text align="left">Thank You, and hope our paths will cross again.</mj-text>
           <mj-text align="left">Best Regards,</mj-text>
           <mj-text align="left">
             csaba Kissi
