@@ -16,7 +16,7 @@
   <mj-body>
     <mj-wrapper padding="20px 20px 0 20px" background-color="#ccc">
       <mj-hero padding="0px" padding-left="0px" padding-right="0px">
-        <mj-divider width="100%" padding="0px" border-color="#040" border-width="4px" />
+        <mj-divider width="100%" padding="0px" border-color="#5857D4" border-width="4px" />
       </mj-hero>
       <mj-section padding="10px">
         <mj-column>
@@ -35,9 +35,7 @@
             border-radius="50%"
           />
 
-          <mj-button font-family="montserrat" background-color="blue" color="white" href="https://google.com">
-            Reset Password
-          </mj-button>
+          <mj-button background-color="#5857D4" color="white" href="https://google.com"> Reset Password </mj-button>
         </mj-column>
       </mj-section>
 
